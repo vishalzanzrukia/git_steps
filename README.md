@@ -57,4 +57,4 @@
 ### 12. Create PR (pull request)
 * Refer : https://help.github.com/articles/creating-a-pull-request/
 
-### 12. Repeat from step 4.
+### 13. Repeat from step 4.
